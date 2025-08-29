@@ -5,7 +5,7 @@ Ich baue gerne einfache, nutzerfreundliche Lösungen mit **React, Next.js und Ja
 
 ---
 
-## 🚀 Aktuelle Projekte
+## Aktuelle Projekte
 
 - [**Shopping_List**](https://github.com/Ajaysrikaran/Shopping_List)  
   Next.js App als moderne Einkaufsliste. Fokus auf App-Struktur, Routing und Projektorganisation.
@@ -46,19 +46,6 @@ Ziel: Einstieg in Serverlogik und Maven-Projektaufbau.
 
 ---
 
-## 📚 Lernen & Notizen
-Ich dokumentiere meine Lernschritte direkt in den Projekten – so bleibt der Einstieg für andere einfach.  
+## Lernen & Notizen
+Ich dokumentiere meine Lernschritte direkt in den Projekten, damit bleibt der Einstieg für andere einfach.  
 
----
-
-## 📫 Kontakt
-👉 [Mein GitHub Profil](https://github.com/Ajaysrikaran)
-
----
-
-<details>
-<summary>📊 Optional: GitHub Stats anzeigen</summary>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaysrikaran&layout=compact)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajaysrikaran&show_icons=true)
-</details>
